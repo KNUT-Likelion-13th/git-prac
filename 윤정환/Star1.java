@@ -1,4 +1,4 @@
-package yunJungHwan;
+package 윤정환;
 import java.io.*;
 
 public class Star1 {
